@@ -1,2 +1,2 @@
 # Tomato_Predict
-Phân loại cà chua thối và cà chua bình thường
+Classify good tomatoes and rotten tomatoes
